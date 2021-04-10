@@ -1,9 +1,12 @@
+//File Loaction: C:/Users/Suman/AppData/Roaming/Code/User
 {
     "C_Cpp.clang_format_fallbackStyle": "\"{ BasedOnStyle: Google, IndentWidth: 2, ColumnLimit: 0 }\"",
     "C_Cpp.default.browse.limitSymbolsToIncludedHeaders": false,
     "C_Cpp.default.browse.path": [
         "${workspaceRoot}",
         "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries",
+        "C:/Users/Suman/Documents/Arduino/libraries",
+        "C:/Users/Suman/AppData/Local/Arduino15",
         "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino",
         "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/variants/mega",
         "/Applications/Arduino.app/Contents/Java/hardware/tools/avr/avr/include",
@@ -16,6 +19,8 @@
     "C_Cpp.default.includePath": [
         "${workspaceRoot}",
         "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries",
+        "C:/Users/Suman/Documents/Arduino/libraries",
+        "C:/Users/Suman/AppData/Local/Arduino15",
         "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino",
         "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/variants/mega",
         "/Applications/Arduino.app/Contents/Java/hardware/tools/avr/avr/include",
